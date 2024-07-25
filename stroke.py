@@ -20,7 +20,7 @@ df['id'].isna().sum()
 df.columns
 df['id']
 df.nunique()
-df['id'].nunique()df['id'].nunique()
+df['id'].nunique()
 df['id'].describe()
 df['id'].value_counts()
 df[df['gender']=='Other']
